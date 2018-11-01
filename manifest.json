@@ -3,12 +3,12 @@
   "name": "Fomo Photo Booth",
   "icons": [
     {
-      "src": "images/3rdaveIcon.png",
+      "src": "/Testapp2/images/3rdaveIcon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/3rdaveIcon.png",
+      "src": "/Testapp2/images/3rdaveIcon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
