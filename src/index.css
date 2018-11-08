@@ -42,20 +42,31 @@ html {
 
 .photo {
   width: 320px;
-  height: 240px;
   float:left;
 }
 
 .player {
+  display: none;
   position: absolute;
   top:20px;
   right: 20px;
   width:200px;
 }
 
+.controls {
+  background-color: #282c34;
+  padding: 15px;
+}
+
+.controls > button {
+  background-color: #ffc600;
+  border-radius: 10px;
+}
+
 .strip {
   padding:2rem;
 }
+
 .strip img {
   width:100px;
   overflow-x: scroll;
